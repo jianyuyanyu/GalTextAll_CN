@@ -51,7 +51,6 @@ Ambitious Mission
 # 恶心人名单
 空種 AyamiKaze  
 nene  
-pkuislm  
 
 # 关于
 某些恶心人的行径令人作呕  
