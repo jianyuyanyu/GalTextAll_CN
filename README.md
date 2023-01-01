@@ -51,6 +51,7 @@ Ambitious Mission
 # 恶心人名单
 空種 AyamiKaze  
 nene  
+鉴于态度良好，暂时撤下，观察待定
 
 # 关于
 某些恶心人的行径令人作呕  
