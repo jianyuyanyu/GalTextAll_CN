@@ -54,6 +54,7 @@
 | 0041 | 与椿同住 共结情缘的剑舞恋曲SS |  | [不放] |
 | 0042 | 纯真之夏 |  | [不放] |
 | 0043 | ALIA's CARNIVAL FD | 爱莉娅嘉年华FD | 【白井木学园汉化组】 |
+| 0044 | Summer Pockets Reflection Blue | Summer Pockets Reflection Blue | 【枫笛汉化组】 |
 
 # 恶心人名单
 | 常用ID | 遮羞布 | 备注 |
