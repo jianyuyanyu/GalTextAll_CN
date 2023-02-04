@@ -55,6 +55,7 @@
 | 0042 | 纯真之夏 |  | [不放] |
 | 0043 | ALIA's CARNIVAL FD | 爱莉娅嘉年华FD | 【白井木学园汉化组】 |
 | 0044 | Summer Pockets Reflection Blue | Summer Pockets Reflection Blue | 【枫笛汉化组】 |
+| 0045 | さくらの雲＊スカアレットの恋 | 樱色之云＊绯色之恋 | 【绿茶汉化组】 |
 
 # 恶心人名单
 | 常用ID | 遮羞布 | 备注 |
