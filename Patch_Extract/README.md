@@ -1,4 +1,4 @@
-# Gal_CN_Patch_Unpack
+# Patch_Extract
 该项目提供完整的解包汉化资源文件
 
 # 关于
