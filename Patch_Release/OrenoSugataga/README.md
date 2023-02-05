@@ -10,3 +10,6 @@
 **Engine**： KirikiriZ  
 ![image](https://github.com/Dir-A/Gal_Patch_Fix_List/blob/main/Sample/%E4%B8%8D%E5%8F%AF%E8%A6%96%E3%81%AE%E8%96%AC%E3%81%A8%E6%95%B0%E5%A5%87%E3%81%AA%E9%81%8B%E5%91%BD.png)
 
+
+# 其他版本
+https://github.com/DirectoryAccess/Invisible_Chs_Revision
