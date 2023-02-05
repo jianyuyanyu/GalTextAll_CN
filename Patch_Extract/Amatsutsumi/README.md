@@ -10,4 +10,4 @@
 本项目旨在逆向取证及公示内容  
 一切造成的后果、损失、影响与本项目无任何关系  
 如有需要可以提供取证分析过程，协助取证调查，溯源以及分析同源性报告。  
-# 你们毁了他的钳图!!![钳图](https://github.com/Galgames-Patch-Fix/Amatsutsumi_CHS/blob/main/Amatsutsumi_CHS_UnPack/qiantu.jpeg?raw=true)
+# 你们毁了他的钳图!!![钳图](https://github.com/Dir-A/GalTextAll_CN/blob/main/Patch_Extract/Amatsutsumi/qiantu.jpeg?raw=true)
