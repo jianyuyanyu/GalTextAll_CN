@@ -1,4 +1,4 @@
-# GalTextAll_CN_Structured
+# Text_Structured
 整理成中日文对照，及对应语音文件（如果可能） 
 
 # 适用条例
